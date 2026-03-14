@@ -1,0 +1,6 @@
+streamlit
+numpy
+numba
+plotly
+pyvista
+kaleido
